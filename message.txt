@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is main branch version
+=======
+this is feature branch vesrion
+>>>>>>> feature
